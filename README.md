@@ -1,2 +1,2 @@
 # dataScienceTeamProject
-This repo is for data science class with Brian, Garette, Gerardo, and Jay working on.
+This repo is for data science class with Brian, Garrete, Gerardo, Anthony and Jay working on.
