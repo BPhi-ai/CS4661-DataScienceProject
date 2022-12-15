@@ -23,3 +23,6 @@
 - outcome: The outcome of the exam; in 1 or 2
 - userid: The user id of the student
 - questionid: THe question id of the test
+
+
+If you want to look more into the datasets as well as more information regarding the development of our project, feel free to view the report and the slides.
